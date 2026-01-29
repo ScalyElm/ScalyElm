@@ -1,6 +1,6 @@
 # Ciao, sono ScalyElm/Nicolo' Pappalardo
 
-### 👨‍💻 Chi sono
+### Chi sono
 Sono un appassionato dell’informatica.
 
 ### 🛠️ Tecnologie e Interessi
