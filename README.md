@@ -1,7 +1,7 @@
 # Hi, I'm ScalyElm/Nicolo' Pappalardo
 
 ### who I am
-Any student passionate about computer science.
+A random student passionate about computer science
 
 ### My site
 https://pappalardonicolo.altervista.org
