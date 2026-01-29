@@ -1,4 +1,4 @@
-# Ciao, sono ScalyElm/ Nicolo' Pappalardo
+# Ciao, sono ScalyElm/Nicolo' Pappalardo
 
 ### 👨‍💻 Chi sono
 Sono un appassionato dell’informatica.
