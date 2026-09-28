@@ -7,4 +7,4 @@ A random student passionate about computer science
 https://pappalardonicolo.altervista.org
 
 ### interests
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,javascript,unity,cs,discordbots&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,javascript,unity,cs&theme=dark&perline=15" alt="My Skills" /></a>
